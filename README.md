@@ -1,6 +1,6 @@
-# How To Secure A Linux Server
+# Защита сервера на базу CentOS
 
-An evolving how-to guide for securing a Linux server that, hopefully, also teaches you a little about security and why it matters.
+Развивающееся руководство по обеспечению безопасности сервера CentOS, которое, как мы надеемся, также немного расскажет вам о безопасности и о том, почему это важно.
 
 [![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](#license)
 
